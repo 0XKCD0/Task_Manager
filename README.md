@@ -28,7 +28,7 @@ __________________________________________
  |21/11/2023|NA                                                                       |
  |22/11/2023|NA                                                                       |
  |23/11/2023|Completed object creation, expression and companion part of kotlin.                                                                         |
- |24/11/2023|                                                                         |
+ |24/11/2023|Completed Data classes, Enum and Sealed classes and null safety.                                                                       |
  |25/11/2023|                                                                         |
  |26/11/2023|                                                                         |
  |27/11/2023|                                                                         |
