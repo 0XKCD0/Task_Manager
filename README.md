@@ -31,7 +31,7 @@ __________________________________________
  |24/11/2023|Completed Data classes, Enum and Sealed classes and null safety.                                                                       |
  |25/11/2023|                                                                         |
  |26/11/2023|                                                                         |
- |27/11/2023|                                                                         |
+ |27/11/2023|Completed exception handling, collections - mutable and immutable lists, and maps.                                                                       |
  |28/11/2023|                                                                         |
  |29/11/2023|                                                                         |
  |30/11/2023|                                                                         |
