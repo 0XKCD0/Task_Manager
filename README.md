@@ -33,8 +33,8 @@ __________________________________________
  |26/11/2023|                                                                         |
  |27/11/2023|Completed exception handling, collections - mutable and immutable lists, and maps.                                                                       |
  |28/11/2023|Creating my Android Lab file - calculator, Intent, Registration Page, LogCat and many more (having final viva and practical tomorrow)                                      |
- |29/11/2023|                                                                         |
- |30/11/2023|                                                                         |
+ |29/11/2023|Started with Android on Udemy, installation and file structure.                                                                        |
+ |30/11/2023|Created a repo of Android notes on GitHub till File Structure.                                                                         |
 
 
 ### December
