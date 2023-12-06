@@ -46,8 +46,8 @@ ________________________________________________________________________________
  | 2/12/2023| App was crashing - Fixed it                                                                      |
  | 3/12/2023| Done with text views and buttons - created two apps for it respectively.                                                                        |
  | 4/12/2023|                                                                         |
- | 5/12/2023|                                                                         |
- | 6/12/2023|                                                                         |
+ | 5/12/2023|EditTexts and ImageViews. (created an app)                                                                         |
+ | 6/12/2023|Checkboxes                                                                       |
  | 7/12/2023|                                                                         |
  | 8/12/2023|                                                                         |
  | 9/12/2023|                                                                         |
