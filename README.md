@@ -49,7 +49,7 @@ ________________________________________________________________________________
  | 5/12/2023|EditTexts and ImageViews. (created an app)                                                                         |
  | 6/12/2023|Checkboxes                                                                       |
  | 7/12/2023|Completed Radio Buttons with radio Groups and started with toggle buttons. Implemented everything using apps.                                                             |
- | 8/12/2023|                                                                         |
+ | 8/12/2023|Completed toggle button and spinner integrating the concept of adater to it. Implemented everything using apps.                      |
  | 9/12/2023|                                                                         |
  |10/12/2023|                                                                         |
  |11/12/2023|                                                                         |
