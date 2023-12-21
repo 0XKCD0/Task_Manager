@@ -50,19 +50,19 @@ ________________________________________________________________________________
  | 6/12/2023|Checkboxes                                                                       |
  | 7/12/2023|Completed Radio Buttons with radio Groups and started with toggle buttons. Implemented everything using apps.                                                             |
  | 8/12/2023|Completed toggle button and spinner integrating the concept of adater to it. Implemented everything using apps.                      |
- | 9/12/2023|                                                                         |
- |10/12/2023|                                                                         |
- |11/12/2023|                                                                         |
- |12/12/2023|                                                                         |
- |13/12/2023|                                                                         |
- |14/12/2023|                                                                         |
- |15/12/2023|                                                                         |
- |16/12/2023|                                                                         |
- |17/12/2023|                                                                         |
- |18/12/2023|                                                                         |
- |19/12/2023|                                                                         |
- |20/12/2023|                                                                         |
- |21/12/2023|                                                                         |
+ | 9/12/2023|  Exam |
+ |10/12/2023|   Exam                                                                        |
+ |11/12/2023|  Exam                                                                  |
+ |12/12/2023|  Exam                                                            |
+ |13/12/2023|  Exam                                                      |
+ |14/12/2023| Exam                                                |
+ |15/12/2023|  Exam                                          |
+ |16/12/2023| Exam |
+ |17/12/2023|  Exam                              |
+ |18/12/2023|  Exam                        |
+ |19/12/2023|  Exam                  |
+ |20/12/2023|    Exam            |
+ |21/12/2023| User Intercations - Toast, Snackbar, Dialog box.                                                                        |
  |22/12/2023|                                                                         |
  |23/12/2023|                                                                         |
  |24/12/2023|                                                                         |
