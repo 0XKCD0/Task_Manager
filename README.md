@@ -84,11 +84,11 @@ ________________________________________________________________________________
  | 1/08/2024|                                                                    |
  | 2/08/2024|
  | 3/08/2024| Tried to install xcode (failed because of system not supporting it due to older version), Gone thrugh interview questions in flutter.                                     
- | 4/08/2024|                                                                         |
+ | 4/08/2024| Made arithmatic Calculator in Android Studio                                                                      |
  | 5/08/2024|                                                                        |
  | 6/08/2024|                                                                      |
  | 7/08/2024|                                                           |
- | 8/08/2024|                  |
+ | 8/08/2024| Started with DSA Big O                  |
  | 9/08/2024| 
  |10/08/2024|                                                                         |
  |11/08/2024|                                                                    |
